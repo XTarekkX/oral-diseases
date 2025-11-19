@@ -136,8 +136,6 @@ Below is the confusion matrix visualizing class‑wise performance:
 * Performance improved significantly with class weighting
 * Clean dataset structure reduced noise and improved consistency
 
-(You may include accuracy curves or confusion matrix if generated.)
-
 ---
 
 ## 🛠 Tech Stack
